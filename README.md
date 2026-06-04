@@ -1,6 +1,8 @@
 # looma
 
-A new Flutter project. (Work in Progress)
+(Work in Progress)
+
+This AI learning assistant was created during the Cursor Hackathon by Mani & Gallardo.
 
 Latest Demo Video: https://youtube.com/shorts/eS56Yvo-pGU
 
